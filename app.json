@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "codigo_agil",
-    "slug": "codigo_agil",
+    "name": "codelearningapp",
+    "slug": "codelearningapp",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "codigoagil",
+    "scheme": "codelearningapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
